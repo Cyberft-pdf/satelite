@@ -1,6 +1,6 @@
 #define VIB_SENSOR D2  //GPIO4
 
-int vibThreshold = 800;  // Počet detekcí než uznáme silnou vibraci
+int vibThreshold = 800;  
 int vibCount = 0;
 
 void setup() {
