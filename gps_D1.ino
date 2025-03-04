@@ -28,4 +28,4 @@ void loop() {
         }
     }
 }
-//musím přepájet 
+//musím přepájet
